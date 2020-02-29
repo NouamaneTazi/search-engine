@@ -1,4 +1,5 @@
 # search-engine
+A simple search engine
 
 ## Database
 Reasons to choose Elasticsearch :
