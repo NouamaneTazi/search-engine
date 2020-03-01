@@ -1,5 +1,5 @@
 # search-engine
-A simple search engine
+A simple tool for search engine
 
 ## Database
 Reasons to choose Elasticsearch :
